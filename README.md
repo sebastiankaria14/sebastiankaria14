@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sebastiankaria14/sebastiankaria14/blob/main/WhatsApp%20Image%202025-04-07%20at%2010.07.55%20AM.jpeg" alt="Servesh Khade Banner"/>
+  <img src="https://github.com/sebastiankaria14/sebastiankaria14/blob/main/WhatsApp%20Image%202025-04-07%20at%2010.21.40%20AM.jpeg" alt="Servesh Khade Banner"/>
 </p>
 -
 -   👋 Hi, I’m @sebastiankaria14
