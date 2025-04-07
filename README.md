@@ -3,6 +3,7 @@
 </p>
 -
 # 💫 About Me:
+
 🎓 Currently pursuing I.T. Engineering at Don Bosco Institute of Technology, Mumbai<br>💻 Actively expanding my skill set in software development and building impactful projects<br>🚀 Passionate about using technology to solve real-world problems and make a difference<br>🎧 Music enthusiast, anime lover, and an avid reader always on the lookout for thought-provoking books and fresh perspectives in tech!<br><br>🌱 What I'm up to:<br>Learning and experimenting with full-stack development<br><br>Collaborating on open-source projects<br><br>Exploring AI, cloud technologies, and scalable solutions<br><br>📫 Let's Connect!
 
 
