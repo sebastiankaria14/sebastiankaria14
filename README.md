@@ -133,7 +133,7 @@ My interests lie at the intersection of **software engineering, artificial intel
 
 <!-- PAC-MAN CONTRIBUTION GRAPH -->
 
-## 👾 Contribution Arcade
+### 👾 Contribution Arcade
 
 <p align="center">
   <img
@@ -143,7 +143,7 @@ My interests lie at the intersection of **software engineering, artificial intel
   />
 </p>
 
-<!-- END PAC-MAN CONTRIBUTION GRAPH -->
+
 
 ### Additional Interests
 
