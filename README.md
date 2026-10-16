@@ -1,29 +1,179 @@
-<p align="center">
-  <img src="https://github.com/sebastiankaria14/sebastiankaria14/blob/main/WhatsApp%20Image%202025-04-07%20at%2010.21.40%20AM.jpeg" alt="Servesh Khade Banner"/>
-</p>
--
-# 💫 About Me:
+<!-- ===================================================== -->
+<!--                  HERO SECTION                       -->
+<!-- ===================================================== -->
 
-🎓 Currently pursuing I.T. Engineering at Don Bosco Institute of Technology, Mumbai<br>💻 Actively expanding my skill set in software development and building impactful projects<br>🚀 Passionate about using technology to solve real-world problems and make a difference<br>🎧 Music enthusiast, anime lover, and an avid reader always on the lookout for thought-provoking books and fresh perspectives in tech!<br><br>🌱 What I'm up to:<br>Learning and experimenting with full-stack development<br><br>Collaborating on open-source projects<br><br>Exploring AI, cloud technologies, and scalable solutions<br><br>📫 Let's Connect!
+<div align="center">
 
+  <img src="https://github.com/sebastiankaria14/sebastiankaria14/blob/main/WhatsApp%20Image%202025-04-07%20at%2010.21.40%20AM.jpeg?raw=true" width="100%" alt="Sebastian Karia's GitHub banner" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sebastian_snapps/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-karia-502459285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastiankaria36@gmail.com) 
+  <br/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sebastiankaria14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sebastiankaria14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiankaria14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  # Hey, I'm Sebastian Karia 👋
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sebastiankaria14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ### Software Engineer · Full-Stack Developer · AI Enthusiast
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+  **Building intelligent systems. Solving real problems. Turning ideas into software.**
+
+  <p>
+    <a href="https://github.com/sebastiankaria14">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sebastian-karia-502459285/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sebastiankaria36@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=sebastiankaria14&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sebastiankaria14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+I'm an Information Technology engineering student passionate about building software that goes beyond the basics.
+
+My interests lie at the intersection of **software engineering, artificial intelligence, database systems, and developer tooling**. I enjoy understanding how systems work under the hood, designing their architecture, and turning complex problems into practical, maintainable solutions.
+
+- 🔭 **Currently exploring:** Intelligent database migration and AI-powered developer tools.
+- 🧠 **Interested in:** System design, software architecture, automation, and scalable applications.
+- 🛠️ **Building with:** Python, JavaScript, React, backend frameworks, and relational and NoSQL databases.
+- ☁️ **Exploring:** Cloud infrastructure, deployment, and production-ready engineering practices.
+- 🤝 **Community:** Former Chairperson of the Computer Society of India, with experience leading a student team and organizing technical workshops.
+- 🎧 **Beyond code:** Anime, music, books, and the occasional rabbit hole that starts with one technical question.
+
+> I enjoy building things that make complicated work simpler.
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🗄️ Intelligent Database Migration</h3>
+        <p>Exploring smarter ways to migrate data between relational and NoSQL databases while preserving data integrity and relationships.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+        <p><b>Focus:</b> Schema mapping, migration planning, validation, and reliable data transfer.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🧠 Repository Intelligence Engine</h3>
+        <p>A developer-tooling concept for understanding codebases through architecture discovery, dependency analysis, API exploration, security analysis, and technical-debt insights.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/AI%2FLLMs-8B5CF6?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Developer_Tools-64748B?style=flat-square"/>
+        </p>
+        <p><b>Focus:</b> Code intelligence, static analysis, automation, and developer productivity.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📝 EvalIQ</h3>
+        <p>An online examination platform concept focused on test creation, multiple question formats, automated evaluation, and academic-integrity tooling.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Full--Stack-0F766E?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Automation-2563EB?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Security-475569?style=flat-square"/>
+        </p>
+        <p><b>Focus:</b> Assessment workflows, grading, and responsible integrity checks.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>⚙️ More Experiments</h3>
+        <p>Exploring full-stack applications, intelligent automation, AI-assisted workflows, and practical software engineering solutions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Experiment-Build-6366F1?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Learn-Iterate-0891B2?style=flat-square"/>
+        </p>
+        <p><b>Approach:</b> Learn by building, test assumptions, and iterate toward better solutions.</p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/sebastiankaria14?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-View_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+</p>
+
+## 🧰 Technologies & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" alt="Programming languages"/>
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,bootstrap" alt="Frontend and backend technologies"/>
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,numpy,pandas,tensorflow,pytorch,opencv" alt="Databases and data technologies"/>
+</p>
+
+### Developer Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,vercel,postman,figma" alt="Developer tools and infrastructure"/>
+</p>
+
+### Additional Interests
+
+<p>
+  <img src="https://img.shields.io/badge/AI_&_LLMs-Exploring-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Static_Analysis-Security-0F766E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System_Design-Learning-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-Building-F59E0B?style=flat-square"/>
+</p>
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sebastiankaria14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiankaria14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=sebastiankaria14&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=sebastiankaria14&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub profile trophies"/>
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on meaningful projects, and exchanging ideas about software engineering and emerging technologies.
+
+- 💼 **Professional networking:** [LinkedIn](https://www.linkedin.com/in/sebastian-karia-502459285/)
+- 💻 **Explore my work:** [GitHub Repositories](https://github.com/sebastiankaria14?tab=repositories)
+- 📬 **Get in touch:** [sebastiankaria36@gmail.com](mailto:sebastiankaria36@gmail.com)
+
+<div align="center">
+
+  ### *Build thoughtfully. Learn relentlessly. Ship meaningfully.*
+
+  <sub>Designed with curiosity, coffee, and a little too much debugging.</sub>
+
+</div>
