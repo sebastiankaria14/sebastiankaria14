@@ -131,6 +131,20 @@ My interests lie at the intersection of **software engineering, artificial intel
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,vercel,postman,figma" alt="Developer tools and infrastructure"/>
 </p>
 
+<!-- PAC-MAN CONTRIBUTION GRAPH -->
+
+## 👾 Contribution Arcade
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sebastiankaria14/sebastiankaria14/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    alt="Pac-Man eating my GitHub contributions"
+    width="100%"
+  />
+</p>
+
+<!-- END PAC-MAN CONTRIBUTION GRAPH -->
+
 ### Additional Interests
 
 <p>
